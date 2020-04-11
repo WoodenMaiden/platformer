@@ -1,0 +1,6 @@
+- organiser les fichiers 
+- faire une génération de maps (matrices ?)
+- faire un makefile
+- use case
+- classes
+-
